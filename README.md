@@ -29,7 +29,7 @@ ___
 
 + Чек-лист(Интерфейс)
     + Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/12B726hYUR3EkZfK9haPlCodDASHg-N0A5dFtICPNsSY/edit?usp=share_link).
-    + Видео выполнения тестирования: [contributor guide index](https://youtu.be/R6rQDXRT3v4).
+    + Видео выполнения тестирования: [contributor guide index](https://youtu.be/ljFnHpHu4g4).
 
 + Чек-лист(Управление)
     + Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1tFi4-A_NPvPDq4TraKmDC7QwA0xrJUQ_0tu1V0C7SD4/edit?usp=share_link).
