@@ -48,7 +48,6 @@ ___
 
 ![image](picture/L_2.png)
 ![image](picture/L_3.png)
-![image](picture/L_6.png)
 ![image](picture/L_7.png)
 ![image](picture/L_8.png)
 ![image](picture/L_10.png)
