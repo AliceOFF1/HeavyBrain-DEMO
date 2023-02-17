@@ -1,13 +1,11 @@
 # HEAVY BRAIN
-![logo](Picture/HBLogo.png)
+![logo](picture/HBLogo.png)
 
 ___
-Эта история произошла во времена, когда сказания о викингах стали больше походить на легенду. Но в душе я всегда знал, кем были мои предки. 
-
+Эта история произошла во времена, когда сказания о викингах стали больше походить на легенду. 
+Но в душе я всегда знал, кем были мои предки. 
 Однажды на мою деревню напали варвары. Они украли все золото древних викингов, а вместе с ним и овечку Дорри.
-
 Мне оставалось только одно…. 
-
 Вернуть то, что принадлежит мне и доказать, что в моих венах течет кровь настоящих ВИКИНГОВ!
 
 ___
@@ -17,46 +15,27 @@ ___
 Инди-проект разработанный одним человеком. На сегодняшний день полностью завершен и готовится к запуки на платформе Steam. 
 
 ## Тестовая документация
-### Чек 
-[contributor guide index](https://docs.google.com/spreadsheets/d/1JbqHOK-GysHius6Yolr-C2r8wjydqZ4DpOMr3kpQI20/edit?usp=share_link).
-___
 
-## Основной геймплей 
+### Чек лист (Инсталляция)
+Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1JbqHOK-GysHius6Yolr-C2r8wjydqZ4DpOMr3kpQI20/edit?usp=share_link).
+Видео выполнения тестирования: [contributor guide index](https://youtu.be/NvGTAxanNCE).
 
-+ Cтандартное управление:
-  + Перемещение(кнопки WASD, пробел);
-  + Атака(ЛКМ);
+### Чек-лист(Интерфейс)
+Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/12B726hYUR3EkZfK9haPlCodDASHg-N0A5dFtICPNsSY/edit?usp=share_link).
+Видео выполнения тестирования: [contributor guide index](https://youtu.be/R6rQDXRT3v4).
 
-+ Индикаторы состояния игрока: 
-  + Здоровье:  
-  Для пополнения индикатора необходимо подобрать аптечку;
-  ![foodBar](ReadmeFiles/Picture/healthBar.png) 
+### Чек-лист(Управление)
+Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1tFi4-A_NPvPDq4TraKmDC7QwA0xrJUQ_0tu1V0C7SD4/edit?usp=share_link).
+Видео выполнения тестирования: [contributor guide index](https://youtu.be/J6AvUlD9x_g).
 
-  + Температура:  
-  Чтобы согреться игроку необходимо развести костер, для этого потребуется срубить дерево. Если индикатор опускается до нуля, он начинает влиять на основное здоровье игрока;
-  ![attack](ReadmeFiles/Picture/attack.png)
+### Чек-лист(Прохождение)
+Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1LHO_ICx_HATlk8nnAsrwmoRDyW-ehCDV5rH1lIGh6P8/edit?usp=share_link).
+Видео выполнения ДЫМОВОГО тестирования: [contributor guide index](https://youtu.be/khZxawzOEcc).
+Видео выполнения РАСШИРЕННОГО тестирования: [contributor guide index](https://youtu.be/uz8bdzvmcVQ).
 
-  + Голод:  
- Для пополнения необходимо подобрть пищу, можно найти на уровне, либо уничтожить врага, из которого заспавнится необходимый предмет.Если индикатор опускается до нуля, он начинает влиять на основное здоровье игрока;
- ![attack](ReadmeFiles/Picture/foodBar.png)
- ![attack](ReadmeFiles/Picture/foodBar_2.png)
-
-+ В игре присутствуют различные двери и платформы, для открытия которых необходимо взаимодействовать с кнопками и рычагами.
-![button](ReadmeFiles/Picture/button.png)
-![handle](ReadmeFiles/Picture/handle.png)
-
-+ Система диалога.
-![dialog](ReadmeFiles/Picture/dialog.png)
-___
-
-
-## Что бы хотел изменить, если бы делал данный проект на сегодняшний день:
-
-+ Создал бы атлас спрайтов 
-+ Поменял архитектуру кода 
-+ Так как проект является первым, внутри проекта было создано много мусора (лишние спрайты, скрипты) и беспорядок в архитектуре папок. 
-
-
+### Чек-лист(Производительность)
+Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1KgPxyWyqZgRILcqdW0Smk7rplcThCQxmBHuz3NeYO3w/edit?usp=share_link).
+Видео выполнения тестирования: [contributor guide index](https://youtu.be/prF0d6dvDok).
  
 
 
