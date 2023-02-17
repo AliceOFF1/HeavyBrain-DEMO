@@ -7,9 +7,6 @@ ___
 Однажды на мою деревню напали варвары. Они украли все золото древних викингов, а вместе с ним и овечку Дорри.
 Мне оставалось только одно…. 
 Вернуть то, что принадлежит мне и доказать, что в моих венах течет кровь настоящих ВИКИНГОВ!
-
-![image](picture/374-448(3).png)
-
 ___
 
 ## О проекте 
@@ -45,6 +42,8 @@ ___
 + Чек-лист(Производительность)
     + Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1KgPxyWyqZgRILcqdW0Smk7rplcThCQxmBHuz3NeYO3w/edit?usp=share_link).
     + Видео выполнения тестирования: [contributor guide index](https://youtu.be/prF0d6dvDok).
+
+![image](picture/374-448(3).png)
 
 
 
