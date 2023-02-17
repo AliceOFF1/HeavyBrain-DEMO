@@ -12,13 +12,14 @@ ___
 
 ## О проекте 
 
-Инди-проект разработанный одним человеком. На сегодняшний день полностью завершен и готовится к запуки на платформе Steam. 
+Инди-проект разработанный одним человеком. На сегодняшний день полностью завершен и готовится к запуску на платформе Steam. 
 
 ## Тестовая документация
 
-### Чек лист (Инсталляция)
-Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1JbqHOK-GysHius6Yolr-C2r8wjydqZ4DpOMr3kpQI20/edit?usp=share_link).
-Видео выполнения тестирования: [contributor guide index](https://youtu.be/NvGTAxanNCE).
++ Чек лист (Инсталляция)
+    + Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1JbqHOK-GysHius6Yolr-C2r8wjydqZ4DpOMr3kpQI20/edit?usp=share_link).
+    + Видео выполнения тестирования: [contributor guide index](https://youtu.be/NvGTAxanNCE).
+
 
 ### Чек-лист(Интерфейс)
 Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/12B726hYUR3EkZfK9haPlCodDASHg-N0A5dFtICPNsSY/edit?usp=share_link).
