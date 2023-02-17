@@ -42,8 +42,20 @@ ___
 + Чек-лист(Производительность)
     + Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1KgPxyWyqZgRILcqdW0Smk7rplcThCQxmBHuz3NeYO3w/edit?usp=share_link).
     + Видео выполнения тестирования: [contributor guide index](https://youtu.be/prF0d6dvDok).
+___
 
-![image](picture/374-448(3).png)
+## Скриншоты
+
+![image](picture/L_2.png)
+![image](picture/L_3.png)
+![image](picture/L_6.png)
+![image](picture/L_7.png)
+![image](picture/L_8.png)
+![image](picture/L_10.png)
+![image](picture/L_11.png)
+![image](picture/L_12.png)
+
+
 
 
 
