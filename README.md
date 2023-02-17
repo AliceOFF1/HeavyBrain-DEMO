@@ -15,10 +15,10 @@ ___
 Инди-проект разработанный одним человеком. На сегодняшний день полностью завершен и готовится к запуску на платформе Steam. 
 
 ## Трейлер 
-[contributor guide index](https://youtu.be/v_nLm233k3E).
+Ссылка на трейлер: [contributor guide index](https://youtu.be/v_nLm233k3E).
 
 ## Demo level
-Ссылка на архив демо уровня. Для использования воспользуйтесь архиватором (WinRAR) [contributor guide index](https://drive.google.com/file/d/1_cUPPcbgnVk0ZQmpS6dACEM1Bp6tHk4s/view?usp=share_link).
+Ссылка на архив демо уровня. Для использования воспользуйтесь архиватором (WinRAR): [contributor guide index](https://drive.google.com/file/d/1_cUPPcbgnVk0ZQmpS6dACEM1Bp6tHk4s/view?usp=share_link).
 
 ## Тестовая документация
 
