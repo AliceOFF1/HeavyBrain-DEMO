@@ -20,6 +20,7 @@ ___
 Ссылка на архив демо уровня. Для использования воспользуйтесь архиватором (WinRAR): [contributor guide index](https://drive.google.com/file/d/1_cUPPcbgnVk0ZQmpS6dACEM1Bp6tHk4s/view?usp=share_link).
 
 ## Тестовая документация
+Тестовая документация демо уровня:
 
 + Чек лист (Инсталляция)
     + Для ознакомления перейдите по ссылке: [contributor guide index](https://docs.google.com/spreadsheets/d/1JbqHOK-GysHius6Yolr-C2r8wjydqZ4DpOMr3kpQI20/edit?usp=share_link).
